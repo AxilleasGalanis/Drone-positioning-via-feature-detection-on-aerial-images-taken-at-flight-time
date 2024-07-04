@@ -18,5 +18,5 @@
   </a>
 </p>
 </h1>
-Developed as a part of thesis "Drone positioning via feature detection on aerial imagestaken at flight time"
+Developed as a part of thesis "Drone positioning via feature detection on aerial images taken at flight time"
 
