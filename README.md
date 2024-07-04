@@ -4,7 +4,7 @@
   </a>
   <br />
   <p align="center">
-   <a href="https://ir.lib.uth.gr/xmlui/handle/11615/57704">
+   <a href="https://ir.lib.uth.gr/">
     <img alt="Thesis as published in UTH Institutional Repository" src="https://img.shields.io/badge/Thesis- as published in Institutional Repository-red.svg" />
   </a>
 
