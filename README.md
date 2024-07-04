@@ -1,4 +1,4 @@
-![image](https://github.com/AxilleasGalanis/Drone-positioning-via-feature-detection-on-aerial-images-taken-at-flight-time/assets/130224323/e88161ff-1d4b-41e2-a615-385783cba6c0)<h1 align="center">
+<h1 align="center">
   <a href="https://uth.gr" title="University of Thessaly">
     <img alt="University of Thessaly" src="https://www.uth.gr/sites/default/files/contents/logos/UTH-logo-english.png" width="200px" height="200px" />
   </a>
