@@ -10,10 +10,10 @@
 
 </p>
   <p align="center">
-   <a href="https://github.com/estamos/word2vec-thesis/files/7202631/Stamos_Evangelos_Thesis.pdf">
+   <a href="">
     <img alt="Thesis" src="https://img.shields.io/badge/Thesis-PDF-white.svg" />
   </a>
-  <a href="https://github.com/estamos/word2vec-thesis/files/7216144/Stamos_Evangelos_Thesis_Presentation.pdf">
+  <a href="https://github.com/AxilleasGalanis/Drone-positioning-via-feature-detection-on-aerial-images-taken-at-flight-time/blob/main/Thesis_Presentation.pptx">
     <img alt="Thesis Presentation" src="https://img.shields.io/badge/Thesis_Presentation-PDF-lightgrey.svg" />
   </a>
 </p>
