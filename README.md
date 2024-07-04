@@ -10,7 +10,7 @@
 
 </p>
   <p align="center">
-   <a href="">
+   <a href="https://github.com/AxilleasGalanis/Drone-positioning-via-feature-detection-on-aerial-images-taken-at-flight-time/blob/main/Thesis_Text.pdf">
     <img alt="Thesis" src="https://img.shields.io/badge/Thesis-PDF-white.svg" />
   </a>
   <a href="https://github.com/AxilleasGalanis/Drone-positioning-via-feature-detection-on-aerial-images-taken-at-flight-time/blob/main/Thesis_Presentation.pptx">
